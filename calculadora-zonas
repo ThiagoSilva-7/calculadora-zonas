@@ -1,0 +1,8 @@
+cd caminho/para/calculadora-zonas
+
+git init
+git add .
+git commit -m "Primeiro commit do app Streamlit"
+git branch -M main
+git remote add origin https://github.com/SEU_USUARIO/calculadora-zonas.git
+git push -u origin main
